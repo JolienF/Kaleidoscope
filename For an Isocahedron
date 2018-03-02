@@ -1,0 +1,27 @@
+FOR PLATONIC BODIES
+
+AIM
+
+What we want to calculate: angle of temper, angle of cuttingline on mirrors.
+From the following information: the characteristics of an isocahedron and mirrors
+
+CHARACTERISTICS OF ISOCAHEDRON
+(all info from wikipedia, https://en.wikipedia.org/wiki/Regular_icosahedron)
+insert picture of isocahedron
+an isocahedron has 20 sides of equilateral triangles.
+This means that the base surface (this is what I call the surface that is repetitavely reflected) exists of an equilateral triangle.
+So, the angles of the base surface are all 60°.
+
+The dihedral angle, the angle between two surfaces, is  arccos(−√5/3) which is about 138.189685°.
+
+That is all the information we need
+
+TEMPER CALCULATION
+The temper is calculated from the dihedral angle by dividing it by 2. 
+Characteristic mirror: the distance between the object and the mirror is the same as the distance between the mirror and the virtual object.
+The angle between the base surface (object) and the virtual surface should be the dihedral angle (138°).
+The mirror is always halfway the object and the mirrored object and so the temper of the mirror is 138/2= 69°
+insert picture
+
+CUTTING LINE CALCULATION
+insert picture
